@@ -1,3 +1,5 @@
+That Sandwich Game was created for The University of Hawaii at Hilo's CS494 Spring 2018 class
+
 This game is written in Haxeflixel, to play it you will need to have HaxeFlixel 
 installed on your system.
 
